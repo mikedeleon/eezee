@@ -74,3 +74,6 @@ $easeInBack
 $easeOutBack
 $easeInOutBack
 ```
+
+## License
+Eezee is licensed under the [MIT License](https://github.com/mikedeleon/eezee/blob/master/LICENSE.md).
